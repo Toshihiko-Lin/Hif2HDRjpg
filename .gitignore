@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+validation_output/
+dist/
+build/
+release/
+vendor_sources/
